@@ -15,13 +15,14 @@ func main() {
 	a := app.New()
 	w := a.NewWindow("chess")
 
-	grid := CreateGrid()
+	grid := createGrid()
 
 	w.SetContent(grid)
+	w.Resize(fyne.NewSize(480, 480))
 	w.ShowAndRun()
 }
 
-func CreateGrid() *fyne.Container {
+func createGrid() *fyne.Container {
 
 	grid := container.NewGridWithColumns(8)
 
