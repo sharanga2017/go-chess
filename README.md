@@ -15,3 +15,5 @@ $ go run .
 
 
 go generate
+
+https://www.jajaldoang.com/post/how-to-update-golang/
