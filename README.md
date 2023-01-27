@@ -2,4 +2,4 @@
 # go-chess
 
 
-example
+example2
