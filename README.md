@@ -15,5 +15,3 @@ $ go run .
 
 
 go generate
-
-
