@@ -16,7 +16,4 @@ $ go run .
 
 go generate
 
-https://www.jajaldoang.com/post/how-to-update-golang/
 
-
-go install fyne.io/fyne/v2/cmd/fyne@latest
